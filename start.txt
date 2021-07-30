@@ -1,2 +1,0 @@
-test git quic start demo
-test git quick start demo
