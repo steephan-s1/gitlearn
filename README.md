@@ -1,7 +1,2 @@
 
-# gitlearn
-
-## START
-
-##END
 continue
